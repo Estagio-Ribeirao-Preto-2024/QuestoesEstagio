@@ -13,3 +13,7 @@ O programa `invert_string.c` lê uma string do usuário e a inverte, exibindo o 
 ```bash
 gcc invert_string.c -o invert_string
 ./invert_string
+
+gcc fibonacci.c -o fibonacci
+./fibonacci
+
