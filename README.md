@@ -8,6 +8,10 @@ Este é um projeto simples em C que inclui duas funcionalidades:
 
 O programa `invert_string.c` lê uma string do usuário e a inverte, exibindo o resultado na tela.
 
+## Verificação Fibonacci
+
+O programa `fibonacci.c` verifica se determinado número esta na série Fibonacci.
+
 ### Compilação e Execução
 
 ```bash
